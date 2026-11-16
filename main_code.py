@@ -129,7 +129,7 @@ report_generator_agent = create_agent(
         "Try to give the answer not too long sentences but the real details must still."
         "Do not give the other details that not involve in the text file."
         "When the user ask some questions that not involve in the knowledge_base text file \
-         try to answer back such as 'Sorry we do not have any informations about your question.' or \
+         try to answer back such as 'Sorry we do not have any information about your question.' or \
          'This information not found.'"
     )
     
