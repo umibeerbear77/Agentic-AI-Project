@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()#Please create your .env file that inside keep your API Key before you call this function
 
-# Step 1:Load and Read knowledge_Base.txt
+# Step 1:Load and Read knowledge_base.txt
 path = "" # Please copy path of text file and put in the ""
 open_file = open(path,mode='r',encoding='utf-8')
 file = open_file.read()
