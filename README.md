@@ -125,7 +125,7 @@ Custom Tools: Semantic Search, Date and Time
 **-** Required libraries are listed in 'requirements.txt' 
 
 # Important Note
-The data in the knowledge.txt file it just the made-up information. The details inside are not reference with any real-world market data or economic data. 
+The data in the knowledge_base.txt file it just the made-up information. The details inside are not reference with any real-world market data or economic data. 
 
 
 
