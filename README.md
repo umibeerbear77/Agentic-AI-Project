@@ -24,6 +24,8 @@ The application is managed by two AI agents that have different responsibilities
 
 **-** The red button or Clear All Data button, when the user has already sent the questions and the result is displayed, always user have to click this button to enable the green or Send your question button again and after that user will write the questions again in the light blue box.
 
+**-** The light yellow box initially displays the temporary text is "Report_Agent is going to report......". The text in this box just tells the user that the report generator agent is waiting to create the answer.
+
 ![First GUI](images/first_see_gui.png)
 
 ## Asking Questions and Responses
