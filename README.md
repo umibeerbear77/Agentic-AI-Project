@@ -30,6 +30,7 @@ The application is managed by two AI agents that have different responsibilities
 
 ## Asking Questions and Responses
 This is an example when the question was sent and the result was shown on display.
+
 **First Example**
 
 ![qa1_ans1](images/qs1_screen_shot.png)
