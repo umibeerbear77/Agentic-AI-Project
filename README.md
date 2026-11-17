@@ -29,7 +29,7 @@ The application is managed by two AI agents that have different responsibilities
 ![First GUI](images/first_see_gui.png)
 
 ## Asking Questions and Responses
-This is an example when the question was sent and the result was shown on display.
+These are examples when the question was sent and the result was shown on display.
 
 **First Example**
 
